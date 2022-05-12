@@ -57,7 +57,3 @@ async function getBusLocations(){
 	return json.data;
 }  
   
-  // Do not edit code past this point
-  if (typeof module !== 'undefined') {
-    module.exports = { move };
-  }
