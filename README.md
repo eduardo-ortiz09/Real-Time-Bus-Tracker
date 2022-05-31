@@ -21,7 +21,7 @@
 
 ## :dart: Description ##
 
-This proyect is about a public bus that runs from MIT to Harvard, in Cambridge Massachusetts, and it shows the stops that there are betwen those two institutions. The proyect is part of the MERN Proggraming Certificate from the MIT that I am attending. 
+This proyect is about a public bus that runs from MIT to Harvard, in Cambridge Massachusetts, and it shows the stops that there are betwen those two institutions. The proyect is part of the MERN Programming Certificate from the MIT that I am attending. 
 
 ## :dart: DEMO ##
 
